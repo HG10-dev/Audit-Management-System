@@ -15,11 +15,13 @@ namespace AuthorizationService.Controllers
     {
         private IConfiguration config;
         private readonly IAuthProvider provider;
+        IAuthRepo auth_repo;
 
-        public AuthController(IConfiguration _config, IAuthProvider _provider)
+        public AuthController(IConfiguration _config, IAuthProvider _provider, IAuthRepo _repo)
         {
             config = _config;
             provider= _provider;
+            auth_repo = _repo;
         }
         // POST api/<AuthController>
         [HttpPost]
@@ -29,10 +31,10 @@ namespace AuthorizationService.Controllers
             {
                 return BadRequest();
             }
-            AuthRepo auth_repo = new AuthRepo(config);
+            
 
             IActionResult response = Unauthorized();
-            AuthCredentials user = auth_repo.Authenticate(login);
+            AuthCredentials user = provider.GetAuthUser(login);
             
             if(user != null)
             {

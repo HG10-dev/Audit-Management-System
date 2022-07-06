@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace AuthorizationService.Provider
 {
-    public abstract class IAuthProvider
+    public interface IAuthProvider
     {
-        public abstract AuthCredentials GetAuthUser(AuthCredentials credentials);
-        public abstract List<AuthCredentials> GetUsers();
+        public AuthCredentials GetAuthUser(AuthCredentials credentials);
+        public List<AuthCredentials> GetUsers();
     }
 }
