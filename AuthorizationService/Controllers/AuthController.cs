@@ -29,7 +29,7 @@ namespace AuthorizationService.Controllers
             {
                 return BadRequest();
             }
-            AuthRepo auth_repo = new AuthRepo(provider, config);
+            AuthRepo auth_repo = new AuthRepo(config);
 
             IActionResult response = Unauthorized();
             AuthCredentials user = auth_repo.Authenticate(login);
