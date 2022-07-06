@@ -19,13 +19,7 @@ namespace AuthorizationService.Repository
             provider = _provider;
             config = _config;
         }
-        public override AuthCredentials Authenticate(AuthCredentials cred)
-        {
-            if(cred == null) { return null; }
-
-            AuthCredentials credentials = provider.GetAuthUser(cred);
-            return credentials;
-        }
+        
 
         public override string GenerateJSONWebToken(AuthCredentials cred)
         {
