@@ -1,4 +1,4 @@
-﻿using AuthorizationService.Models;
+using AuthorizationService.Models;
 using AuthorizationService.Provider;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
@@ -12,17 +12,19 @@ namespace AuthorizationService.Repository
 {
     public class AuthRepo : IAuthRepo
     {
-        private readonly IAuthProvider provider;
+        //private readonly IAuthProvider provider;
         private readonly IConfiguration config;
-        public AuthRepo(IAuthProvider _provider, IConfiguration _config)
+        public AuthRepo( IConfiguration _config)
         {
-            provider = _provider;
+            //provider = _provider;
             config = _config;
         }
-        
+
 
         public override string GenerateJSONWebToken(AuthCredentials cred)
         {
+            if (cred == null) { return null; }
+
             var authClaim = new List<Claim>
             {
                 new Claim(ClaimTypes.Name, cred.UserName),
@@ -37,8 +39,7 @@ namespace AuthorizationService.Repository
                 audience: config["Jwt:Issuer"],
                 expires: DateTime.Now.AddMinutes(30),
                 claims: authClaim,
-                signingCredentials: credentials
-                );
+                signingCredentials: credentials);
 
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
