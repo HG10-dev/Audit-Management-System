@@ -30,8 +30,8 @@ namespace AuthorizationService
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddTransient<IAuthRepo, AuthRepo>();
-            services.AddTransient<IAuthProvider, AuthProvider>();
+            services.AddScoped<IAuthRepo, AuthRepo>();
+            services.AddScoped<IAuthProvider, AuthProvider>();
             services.AddAuthentication(option =>
             {
                 option.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
