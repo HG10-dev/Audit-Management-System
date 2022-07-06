@@ -1,4 +1,4 @@
-﻿
+
 using AuthorizationService.Models;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,6 +20,7 @@ namespace AuthorizationService.Provider
         public override List<AuthCredentials> GetUsers() { return credList; }
         public override AuthCredentials GetAuthUser(AuthCredentials credentials)
         {
+            if (credentials == null) { return null; }
             List<AuthCredentials> userList = GetUsers();
             AuthCredentials authUser = userList.FirstOrDefault(c => c.UserName == credentials.UserName && c.Password == credentials.Password);
             return authUser;
