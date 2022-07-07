@@ -2,8 +2,8 @@
 
 namespace AuthorizationService.Repository
 {
-    public abstract class IAuthRepo
-    {        
-        public abstract string GenerateJSONWebToken(AuthCredentials cred);
+    public interface IAuthRepo
+    {      
+        public string GenerateJSONWebToken(AuthCredentials cred);
     }
 }

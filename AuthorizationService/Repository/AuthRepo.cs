@@ -1,4 +1,4 @@
-using AuthorizationService.Models;
+﻿using AuthorizationService.Models;
 using AuthorizationService.Provider;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
@@ -19,9 +19,15 @@ namespace AuthorizationService.Repository
             //provider = _provider;
             config = _config;
         }
+        //public override AuthCredentials Authenticate(AuthCredentials cred)
+        //{
+        //    if(cred == null) { return null; }
 
+        //    AuthCredentials credentials = provider.GetAuthUser(cred);
+        //    return credentials;
+        //}
 
-        public override string GenerateJSONWebToken(AuthCredentials cred)
+        public string GenerateJSONWebToken(AuthCredentials cred)
         {
             if (cred == null) { return null; }
 
