@@ -1,4 +1,4 @@
-using AuthorizationService.Models;
+﻿using AuthorizationService.Models;
 using AuthorizationService.Provider;
 using AuthorizationService.Repository;
 using Microsoft.Extensions.Configuration;
@@ -31,9 +31,12 @@ namespace AuthorizationTest
         public void GeneratesJWT()
         {
             AuthCredentials cred = new AuthCredentials { UserName = "user1", Password = "pass"};
-            Mock<IConfiguration> mock = new Mock<IConfiguration>();           
+            Mock<IConfiguration> mock = new Mock<IConfiguration>();
+            //mock.Setup(c => c.GetBy(It.IsAny<AuthCredentials>())).Returns("token");
+            //config.Setup(c => c["Jwt:Issuer"]).Returns("thisIsMySecretKey");
 
-            mock.SetupGet(x => x[It.Is<string>(s => s == "Jwt:Key")]).Returns("youDon'tNeedToKnowMySecretKey");    
+            mock.SetupGet(x => x[It.Is<string>(s => s == "Jwt:Key")]).Returns("youDon'tNeedToKnowMySecretKey");
+            //mock.SetupGet(x => x[It.Is<string>(s => s == "ValidPowerStatus")]).Returns("On");
 
             AuthRepo authNew = new AuthRepo(mock.Object);
 
