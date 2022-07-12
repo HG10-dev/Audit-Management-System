@@ -530,17 +530,12 @@ F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\
 F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
 F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
 F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.genruntimeconfig.cache
-G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\log4net.config
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\appsettings.Development.json
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\appsettings.json
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\nunit.engine.dll
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
-G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.deps.json
-G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.json
-G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.dev.json
-G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.exe
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.deps.json
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.json
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.dev.json
@@ -654,8 +649,6 @@ G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\z
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.dll
-G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.pdb
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.AssemblyReference.cache
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.GeneratedMSBuildEditorConfig.editorconfig
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfoInputs.cache
@@ -665,3 +658,9 @@ G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\A
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
 G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.genruntimeconfig.cache
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistService.deps.json
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistService.runtimeconfig.json
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistService.runtimeconfig.dev.json
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistService.exe
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistService.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistService.pdb

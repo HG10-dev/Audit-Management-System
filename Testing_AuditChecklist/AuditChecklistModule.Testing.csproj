@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AuditChecklistModule\AuditChecklistModule.csproj" />
+    <ProjectReference Include="..\AuditChecklistService\AuditChecklistService.csproj" />
   </ItemGroup>
 
 </Project>

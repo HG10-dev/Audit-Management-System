@@ -9,6 +9,7 @@
       "AuditChecklistModule.Testing/1.0.0": {
         "dependencies": {
           "AuditChecklistModule": "1.0.0",
+          "AuditChecklistService": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.4.0",
           "Moq": "4.14.5",
           "NUnit3TestAdapter": "3.15.1",
@@ -64,14 +65,14 @@
           "Microsoft.AspNetCore.Http.Extensions": "2.2.0"
         }
       },
-      "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.8": {
+      "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.14": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "5.5.0"
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
-            "assemblyVersion": "3.1.8.0",
-            "fileVersion": "3.100.820.42106"
+            "assemblyVersion": "3.1.14.0",
+            "fileVersion": "3.100.1421.16608"
           }
         }
       },
@@ -1409,17 +1410,12 @@
           }
         }
       },
-      "AuditChecklistModule/1.0.0": {
+      "AuditChecklistService/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.8",
-          "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
-          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
-          "Microsoft.Extensions.Logging.Log4Net.AspNetCore": "3.1.3",
-          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.10.8",
-          "Swashbuckle.AspNetCore": "5.6.2"
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.14"
         },
         "runtime": {
-          "AuditChecklistModule.dll": {}
+          "AuditChecklistService.dll": {}
         }
       }
     }
@@ -1458,12 +1454,12 @@
       "path": "microsoft.aspnetcore.authentication.core/2.2.0",
       "hashPath": "microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.8": {
+    "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.14": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-sAXFFgsSEYd6PTFCzBKYBlXnb+ncclrQPMyMzARELxBv94Onqtr/JTWKih+NUr/3xR5BAs1xE6boao0Us6xcPA==",
-      "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.8",
-      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512"
+      "sha512": "sha512-/HlfEeETtagEM+HuLr7VzXAd6MkxLVUbXRWDEvzMPe3cNXl8ZbuPv8oaiAd99sBhXlOKemeQVZooi8nOeekuFA==",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.14",
+      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.3.1.14.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authorization/2.2.0": {
       "type": "package",
@@ -2305,7 +2301,7 @@
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
-    "AuditChecklistModule/1.0.0": {
+    "AuditChecklistService/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
