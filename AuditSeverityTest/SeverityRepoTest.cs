@@ -20,7 +20,7 @@ namespace AuditSeverityTest
                 ProjectManagerName= "Gautam",
                 ApplicationOwnerName= "Himangshu",
                 AuditDetail= new AuditDetail(){
-                AuditType= AuditType.SOX,
+                AuditType= AuditType.Internal,
                     AuditDate="7/8/2022",
                     AuditQuestions= new List<QAndA>(){
                         new QAndA(){Id=1,Ans="No"},
@@ -38,8 +38,6 @@ namespace AuditSeverityTest
         {
             data = new Dictionary<string, int>();
             data.Add("Internal", 3);
-            //provider = new BenchmarkProvider();
-            repo = new SeverityRepo(config,provider);
         }
 
         [Test]
@@ -47,18 +45,20 @@ namespace AuditSeverityTest
         {            
             Mock<IBenchmarkProvider> mock = new Mock<IBenchmarkProvider>();
             mock.Setup(d => d.GetAuditBenchmarks(config)).ReturnsAsync(data);
-            var result = repo.GetResponse(new AuditRequest());
+            repo = new SeverityRepo(config, mock.Object);
+            var result = repo.GetResponse(request).Result;
             Assert.IsNotNull(result);
         }
 
         [Test]
         public void GetAuditBenchmarksReturnsNull()
         {
-            data.Clear();
+            data = null;
             Mock<IBenchmarkProvider> mock = new Mock<IBenchmarkProvider>();
             mock.Setup(d => d.GetAuditBenchmarks(config)).ReturnsAsync(data);
-            var result = repo.GetResponse(new AuditRequest());
-            Assert.IsNotNull(result);
+            repo = new SeverityRepo(config, mock.Object);
+            var result = repo.GetResponse(request).Result;
+            Assert.IsNull(result);
         }
     }
 }
