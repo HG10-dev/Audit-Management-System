@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: auditchecklistmodule-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: AuditChecklistModule
+  template:
+    metadata:
+      labels:
+        app: AuditChecklistModule
+    spec:
+      containers:
+      - name: auditchecklistrepos
+        image: auditchecklist.azurecr.io/auditchecklistrepos:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: auditchecklistmodule
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: AuditChecklistModule

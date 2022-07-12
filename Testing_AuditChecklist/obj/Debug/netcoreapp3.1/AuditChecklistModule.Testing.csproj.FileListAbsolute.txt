@@ -1,0 +1,667 @@
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\AuditChecklistModule.exe
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.deps.json
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.json
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.dev.json
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\AuditChecklistModule.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csprojAssemblyReference.cache
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfoInputs.cache
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CopyComplete
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.genruntimeconfig.cache
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CoreCompileInputs.cache
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\AuditChecklistModule.exe
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.deps.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.dev.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\AuditChecklistModule.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\bin\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csprojAssemblyReference.cache
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfoInputs.cache
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfo.cs
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CoreCompileInputs.cache
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CopyComplete
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
+C:\Users\supri\source\repos\Testing_AuditChecklist\Testing_AuditChecklist-master\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.genruntimeconfig.cache
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.exe
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.deps.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.dev.json
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+C:\Users\supri\source\repos\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csprojAssemblyReference.cache
+C:\Users\supri\source\repos\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfoInputs.cache
+C:\Users\supri\source\repos\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfo.cs
+C:\Users\supri\source\repos\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CoreCompileInputs.cache
+C:\Users\supri\source\repos\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CopyComplete
+C:\Users\supri\source\repos\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
+C:\Users\supri\source\repos\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
+C:\Users\supri\source\repos\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.genruntimeconfig.cache
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\log4net.config
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\appsettings.json
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\nunit.engine.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.deps.json
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.json
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.dev.json
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.exe
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistyaml.yaml
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.deps.json
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.json
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.dev.json
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\log4net.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\testhost.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Moq.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\nunit.framework.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.AssemblyReference.cache
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.GeneratedMSBuildEditorConfig.editorconfig
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfoInputs.cache
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfo.cs
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CoreCompileInputs.cache
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CopyComplete
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
+F:\cts submit\AuditManagementSystemMFPE-master\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.genruntimeconfig.cache
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\log4net.config
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\appsettings.json
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\nunit.engine.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.deps.json
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.json
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.dev.json
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.exe
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.deps.json
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.json
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.runtimeconfig.dev.json
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\log4net.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\testhost.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Moq.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\nunit.framework.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\bin\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.AssemblyReference.cache
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.GeneratedMSBuildEditorConfig.editorconfig
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfoInputs.cache
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfo.cs
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CoreCompileInputs.cache
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CopyComplete
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
+G:\MFPE\Audit Management Portal\Testing_AuditChecklist\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.genruntimeconfig.cache
