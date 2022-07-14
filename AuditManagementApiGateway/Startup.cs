@@ -18,6 +18,14 @@ namespace AuditManagementApiGateway
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy("MyCorsPolicy", builder => builder
+                    .WithOrigins("http://localhost:3000")
+                    .AllowCredentials()
+                    .AllowAnyMethod()
+                    .WithHeaders("Accept", "Content-Type", "Origin", "X-My-Header"));
+            });
             services.AddOcelot();
         }
 
@@ -30,6 +38,7 @@ namespace AuditManagementApiGateway
             }
 
             app.UseRouting();
+            app.UseCors("MyCorsPolicy");
 
             app.UseEndpoints(endpoints =>
             {

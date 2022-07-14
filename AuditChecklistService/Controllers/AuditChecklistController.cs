@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.AspNetCore.Cors;
 using AuditChecklistModule.Models;
 using AuditChecklistModule.Providers;
 using AuditChecklistModule.Repository;
@@ -10,6 +11,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AuditChecklistModule.Controllers
 {
+    [EnableCors("MyCorsPolicy")]
     [Route("api/[controller]")]
     [ApiController]
     [Authorize]

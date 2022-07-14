@@ -30,6 +30,14 @@ namespace AuthorizationService
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy("MyCorsPolicy", builder => builder
+                    .WithOrigins("http://localhost:3000")
+                    .AllowCredentials()
+                    .AllowAnyMethod()
+                    .WithHeaders("Accept", "Content-Type", "Origin", "X-My-Header"));
+            });
             services.AddScoped<IAuthRepo, AuthRepo>();
             services.AddScoped<IAuthProvider, AuthProvider>();
             services.AddAuthentication(option =>
@@ -64,7 +72,7 @@ namespace AuthorizationService
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
+            app.UseCors("MyCorsPolicy");
             app.UseAuthentication();
             app.UseAuthorization();
 

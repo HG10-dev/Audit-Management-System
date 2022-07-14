@@ -2,6 +2,7 @@
 using AuthorizationService.Provider;
 using AuthorizationService.Repository;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.Extensions.Configuration;
 using System.Collections.Generic;
 
@@ -9,6 +10,7 @@ using System.Collections.Generic;
 
 namespace AuthorizationService.Controllers
 {
+    [EnableCors("MyCorsPolicy")]
     [Route("api/[controller]")]
     [ApiController]
     public class AuthController : ControllerBase

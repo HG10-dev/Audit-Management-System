@@ -44,15 +44,18 @@ namespace AuditPortal.Controllers
                         return Unauthorized();
                     }
 
-                    token = await response.Content.ReadAsStringAsync();  
+                    token = await response.Content.ReadAsStringAsync();
                     //input = JsonConvert.DeserializeObject<AuthCredentials>(token);
 
                     string userName = cred.UserName;
+
+                    HttpContext.Response.Cookies.Append("Token", token);
+
                     HttpContext.Session.SetString("token", token);
                     HttpContext.Session.SetString("user", JsonConvert.SerializeObject(cred));
                     HttpContext.Session.SetString("owner", userName);
 
-                    return Ok();
+                    return Ok(token);
                 }
             }
 
@@ -61,31 +64,34 @@ namespace AuditPortal.Controllers
         [Route("Logout")]
         public IActionResult Logout()
         {
-            if (HttpContext.Session.GetString("token") == null)
+            string Token = HttpContext.Request.Cookies["Token"];
+            if (string.IsNullOrEmpty(Token))
             {
                 return Ok();
             }
+            HttpContext.Response.Cookies.Delete("Token");
             HttpContext.Session.Clear();
             return Ok("Logged Out");
         }
 
-        
+
         [HttpGet("Checklist/{type}")]
         public async Task<IActionResult> Get(string type)
         {
-            if(type == null || (type !="Internal" && type != "SOX"))
+                if (type == null || (type != "Internal" && type != "SOX"))
             {
                 return NotFound();
             }
-            if (HttpContext.Session.GetString("token") == null)
+            string Token = HttpContext.Request.Cookies["Token"];
+            if (string.IsNullOrEmpty(Token))
             {
                 return Unauthorized();
             }
 
-            using(var client = new HttpClient())
+            using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri(configuration["MyLinkValue:BaseUrl"]);
-                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", HttpContext.Session.GetString("token"));
+                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", Token);
                 using (var response = await client.GetAsync("AuditChecklist/" + type))
                 {
                     if (!response.IsSuccessStatusCode)
@@ -101,22 +107,23 @@ namespace AuditPortal.Controllers
 
         }
 
-    
+
         [HttpPost("Severity")]
         public async Task<IActionResult> Post([FromBody] AuditRequest request)
         {
-            if(request == null)
+            if (request == null)
             {
                 return BadRequest();
             }
-            if(HttpContext.Session.GetString("token") == null)
+            string Token = HttpContext.Request.Cookies["Token"];
+            if (string.IsNullOrEmpty(Token))
             {
                 return Unauthorized();
             }
             using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri(configuration["MyLinkValue:BaseUrl"]);
-                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", HttpContext.Session.GetString("token"));
+                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", Token);
                 StringContent content = new StringContent(JsonConvert.SerializeObject(request), Encoding.UTF8, "application/json");
                 using (var response = await client.PostAsync("AuditSeverity", content))
                 {
@@ -130,6 +137,6 @@ namespace AuditPortal.Controllers
                 }
             }
         }
-        
+
     }
 }
