@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditSeverityService", "AuditSeverityService.csproj", "{BCB4B856-A4BE-4381-AAE2-D1DAD303D490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditSeverityTest", "..\AuditSeverityTest\AuditSeverityTest.csproj", "{AED2C245-78A5-4E38-828B-5F3C3F97E444}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditSeverityTest", "..\AuditSeverityTest\AuditSeverityTest.csproj", "{D1716964-5951-4F47-A247-72D9EEB2AB2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{BCB4B856-A4BE-4381-AAE2-D1DAD303D490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCB4B856-A4BE-4381-AAE2-D1DAD303D490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCB4B856-A4BE-4381-AAE2-D1DAD303D490}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AED2C245-78A5-4E38-828B-5F3C3F97E444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AED2C245-78A5-4E38-828B-5F3C3F97E444}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AED2C245-78A5-4E38-828B-5F3C3F97E444}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AED2C245-78A5-4E38-828B-5F3C3F97E444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1716964-5951-4F47-A247-72D9EEB2AB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1716964-5951-4F47-A247-72D9EEB2AB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1716964-5951-4F47-A247-72D9EEB2AB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1716964-5951-4F47-A247-72D9EEB2AB2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,6 +14,10 @@ namespace AuthorizationService.Provider
         {
             credList = new List<AuthCredentials>()
             {
+                new AuthCredentials { UserName = "Himangshu", Password = "Gautam" }, 
+                new AuthCredentials { UserName = "Soubhanik", Password = "Dutta" }, 
+                new AuthCredentials { UserName = "Keerthy", Password = "Varrier" }, 
+                new AuthCredentials { UserName = "Akhila", Password = "Parvatham" }, 
                 new AuthCredentials { UserName = "user1", Password = "pass1" }, 
                 new AuthCredentials { UserName = "user2", Password = "pass2" }
             };

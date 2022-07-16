@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z965dyrKZK6DIm0TCfqeEQ7i3YfIsA2nmvnRokk2n2edtmo+yRJzbThBd34VRRPFuR9RvcdEwv/L4zJ4P1uSsA==",
+  "dgSpecHash": "JQ3lN17sO63qV2N54uhMP/CFmolYb1UWDt2+FZ+5EyVtFLTKeH7UEy4GOU9C77nTXC+bZnDfKM/O2cm0t/GVrQ==",
   "success": true,
   "projectFilePath": "G:\\MFPE\\Audit Management Portal\\AuditSeverityService\\AuditSeverityService.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\gauta\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\gauta\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

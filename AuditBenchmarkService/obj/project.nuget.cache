@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dq5ftHGdpF4bMTXaWYphydVsBW4t+LMLI1J/p0YMQ+QxC6VcRLToe41J0bl3ijqSgCm8pIMbKW58rngc1mG2Qg==",
+  "dgSpecHash": "cOn00SRFupQIZ3o+i57lnIviCfUbu1enOost5bw4ttJtvjmaxTREV740xBfILqSvfH736BG23JAkJgMiOG8r7g==",
   "success": true,
   "projectFilePath": "G:\\MFPE\\Audit Management Portal\\AuditBenchmarkService\\AuditBenchmarkService.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\gauta\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\gauta\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",

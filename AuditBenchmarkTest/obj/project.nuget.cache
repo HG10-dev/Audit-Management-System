@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0jASfXyimit1WDDxb4n3N31q6VPz/dAnV3PSGnsbQBnNAP9pW4sQq3sX9KIh1zPcahNBhUkP0vyHh1zmjISFOw==",
+  "dgSpecHash": "ss4n9q/OIL2EnnlRbRMDVwflUXakyinUl4VwUwUFBuaP33Ti/jl0B+y2kBMuVdtWk4cmC1QGJdfoVeq9xt7Xtw==",
   "success": true,
   "projectFilePath": "G:\\MFPE\\Audit Management Portal\\AuditBenchmarkTest\\AuditBenchmarkTest.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\gauta\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\gauta\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\moq\\4.14.5\\moq.4.14.5.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\gauta\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
