@@ -9,21 +9,19 @@ namespace AuditChecklistModule.Providers
 {
     public class ChecklistProvider:IChecklistProvider
     {
-        private readonly IChecklistRepo checklistRepoObj;
-        public ChecklistProvider(IChecklistRepo _checklistRepoObj)
+        private readonly IChecklistRepo repo;
+        public ChecklistProvider(IChecklistRepo _repo)
         {
-            checklistRepoObj = _checklistRepoObj;
+            repo = _repo;
         }
         List<Questions> listOfQuestions = new List<Questions>();
 
         public List<Questions> QuestionsProvider(string type)
         {
-            /*if (!type.Contains("Internal") && !type.Contains("SOX"))
-                return null;*/
-            
+                     
             try
             {
-                listOfQuestions = checklistRepoObj.GetQuestions(type);
+                listOfQuestions = repo.GetQuestions(type);
                 return listOfQuestions;
             }
             catch(Exception e)

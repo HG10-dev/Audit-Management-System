@@ -50,7 +50,7 @@ namespace AuditSeverityService.Controllers
 
             if(response == null)
             {
-                return BadRequest();
+                return StatusCode(500);
             }
 
             return Ok(response);

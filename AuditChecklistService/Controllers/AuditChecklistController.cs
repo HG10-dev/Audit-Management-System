@@ -17,16 +17,16 @@ namespace AuditChecklistModule.Controllers
     [Authorize]
     public class AuditChecklistController : ControllerBase
     {
-        private readonly IChecklistProvider checklistProviderobj;      
+        private readonly IChecklistProvider provider;      
                  
-        public AuditChecklistController(IChecklistProvider _checklistProviderobj)
+        public AuditChecklistController(IChecklistProvider _provider)
         {
-            checklistProviderobj = _checklistProviderobj;
+            provider = _provider;
         }
 
         // GET: api/AuditChecklist
         [HttpGet("{auditType}")]
-        public IActionResult GetQuestions(string auditType)
+        public IActionResult Get(string auditType)
         {
             if (string.IsNullOrEmpty(auditType))
                 return BadRequest("No Input");
@@ -36,7 +36,7 @@ namespace AuditChecklistModule.Controllers
 
             try
             {
-                List<Questions> list = checklistProviderobj.QuestionsProvider(auditType);
+                List<Questions> list = provider.QuestionsProvider(auditType);
                     return Ok(list);
             }
             catch(Exception e)

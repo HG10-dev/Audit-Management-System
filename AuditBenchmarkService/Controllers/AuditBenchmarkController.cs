@@ -17,12 +17,7 @@ namespace AuditBenchmarkService.Controllers
         {
             objProvider = _objProvider;
         }
-        /// <summary>
-        /// GET: api/AuditBenchmark 
-        /// Input - nothing ; 
-        /// Output - List of Benchmark
-        /// </summary>
-        /// <returns></returns>
+ 
 
         [HttpGet]
         public IActionResult Get()

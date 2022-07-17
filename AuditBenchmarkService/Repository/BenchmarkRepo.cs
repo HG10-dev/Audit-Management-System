@@ -10,10 +10,7 @@ namespace AuditBenchmarkService.Repository
   
         private static List<AuditBenchmark> AuditBenchmarkList ()=> new List<AuditBenchmark>()
         {
-         /// <summary>
-        /// Lists of Benchmark 
-        /// </summary>
-        /// <returns></returns>
+        
             new AuditBenchmark
             {
                 AuditType="Internal",

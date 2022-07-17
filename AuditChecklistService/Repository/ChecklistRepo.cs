@@ -9,7 +9,7 @@ namespace AuditChecklistModule.Repository
     public class ChecklistRepo : IChecklistRepo
     {
 
-        private static List<Questions> InternalQuestionsList = new List<Questions>()
+        private static List<Questions> QuestionsList = new List<Questions>()
         {
             new Questions
             {
@@ -75,7 +75,7 @@ namespace AuditChecklistModule.Repository
                 List<Questions> listOfQuestions = new List<Questions>();
 
                 if (auditType == "Internal")
-                    listOfQuestions = InternalQuestionsList;
+                    listOfQuestions = QuestionsList;
                 else
                     listOfQuestions = SOXQuestionsList;
 

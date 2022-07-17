@@ -57,7 +57,7 @@ namespace AuditBenchmarkTest
             list = null;
             provider = new BenchmarkProvider(repo);
             Mock<IBenchmarkRepo> mock = new Mock<IBenchmarkRepo>();
-            //mock.Setup(c => c.GetNolist()).Returns(list);
+            mock.Setup(c => c.GetNolist()).Returns(list);
             
             var data = provider.GetBenchmark();
 
