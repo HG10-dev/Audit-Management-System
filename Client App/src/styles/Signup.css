@@ -1,0 +1,69 @@
+/* body {
+  background: rgb(2, 0, 36);
+  background: radial-gradient(
+    circle,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(30, 54, 59, 1) 0%,
+    rgba(93, 93, 116, 1) 100%
+  );
+} */
+
+.container {
+  display: flex !important;
+  flex-direction: column;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* max-width: 450px;*/
+  /* width: 200px; */
+  margin: auto;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.container > form {
+  width: 350px;
+  height: fit-content;
+  border: 1px solid #dfdfdf;
+  padding: 20px;
+  border-radius: 5px;
+  background: #fff;
+}
+input[type="text"],
+input[type="password"] {
+  height: 40px;
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  font: small-caption;
+  font-size: 16px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+.button-color {
+  background-color: cornflowerblue;
+  width: 120px;
+  height: 40px;
+  margin-top: 20px;
+}
+button {
+  font-weight: bold !important;
+  color: white;
+  background-color: transparent;
+  border-radius: 10px !important;
+  border-color: transparent;
+}
+.button-color:hover {
+  background-color: black !important;
+}
+p {
+  color: red;
+}
+.title {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+  text-decoration: underline;
+}
